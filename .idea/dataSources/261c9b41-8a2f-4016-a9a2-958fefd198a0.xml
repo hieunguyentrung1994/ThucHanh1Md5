@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataSource name="@localhost">
+  <database-model serializer="dbm" dbms="MYSQL" family-id="MYSQL" format-version="4.48">
+    <root id="1">
+      <DefaultCasing>lower/lower</DefaultCasing>
+      <ServerVersion>8.0.33</ServerVersion>
+    </root>
+    <schema id="2" parent="1" name="baitap"/>
+    <schema id="3" parent="1" name="bank"/>
+    <schema id="4" parent="1" name="congty"/>
+    <schema id="5" parent="1" name="daihoc"/>
+    <schema id="6" parent="1" name="demo"/>
+    <schema id="7" parent="1" name="demodb"/>
+    <schema id="8" parent="1" name="hackathon_06"/>
+    <schema id="9" parent="1" name="information_schema"/>
+    <schema id="10" parent="1" name="khachhang"/>
+    <schema id="11" parent="1" name="luyenthi"/>
+    <schema id="12" parent="1" name="managermusic"/>
+    <schema id="13" parent="1" name="my_database1"/>
+    <schema id="14" parent="1" name="mysql"/>
+    <schema id="15" parent="1" name="performance_schema"/>
+    <schema id="16" parent="1" name="project"/>
+    <schema id="17" parent="1" name="project_ban_hang"/>
+    <schema id="18" parent="1" name="qlsp"/>
+    <schema id="19" parent="1" name="quanlybanhang"/>
+    <schema id="20" parent="1" name="quanlydiemsv"/>
+    <schema id="21" parent="1" name="sakila"/>
+    <schema id="22" parent="1" name="sys"/>
+    <schema id="23" parent="1" name="todolist"/>
+    <schema id="24" parent="1" name="world"/>
+  </database-model>
+</dataSource>
